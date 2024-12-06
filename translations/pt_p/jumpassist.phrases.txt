@@ -1,0 +1,419 @@
+"Phrases"
+{
+	"Teleport_NoSave"
+	{
+		"#format"		"{1:s},{2:s},{3:c},{4:c},{5:c},{6:c}"
+		"pt_p"			"Você não tem um save para o {3}{1}{4} no {5}{2}{6}."
+	}
+	"Teleport_Dead"
+	{
+		"pt_p"			"Você deve estar vivo para teleportar."
+	}
+	"Teleported_Self"
+	{
+		"pt_p"			"Você foi teletransportado."
+	}
+	"Saves_Disabled"
+	{
+		"pt_p"			"Você tem saves desativados."
+	}
+	"Saves_Dead"
+	{
+		"pt_p"			"Você não pode salvar sua localização enquanto estiver morto."
+	}
+	"Saves_InAir"
+	{
+		"pt_p"			"Você não pode salvar sua localização no ar."
+	}
+	"Saves_Ducked"
+	{
+		"pt_p"			"você não pode salvar sua localização enquanto estiver agachado."
+	}
+	"Saves_Location"
+	{
+		"pt_p"			"Sua localização foi salva."
+	}
+	"Hardcore_SettingsBusy"
+	{
+		"pt_p"			"você não pode alterar as configurações do hardcore enquanto estiver no speed run."
+	}
+	"Hardcore_On"
+	{
+		"pt_p"			"Seus saves, e teletransportes foram desativados."
+	}
+	"Hardcore_Off"
+	{
+		"pt_p"			"Agora você pode salvar, e teletransportar."
+	}
+	"Regen_SettingsBusy"
+	{
+		"pt_p"			"você não pode alterar suas configurações enquanto estiver no speed run."
+	}
+	"Regen_On"
+	{
+		"pt_p"			"Agora você ira receber munição adicional e regeneração de vida."
+	}
+	"Regen_Off"
+	{
+		"pt_p"			"você não pode mais ficar com regeneração adicional."
+	}
+	"Regen_HealthOnlyOn"
+	{
+		"pt_p"			"Agora você pode ter regeneração de vida adicional."
+	}
+	"Regen_HealthOnlyOff"
+	{
+		"pt_p"			"Regeneração de vida esta desabilitada agora."
+	}
+	"Regen_AmmoOnlyOn"
+	{
+		"pt_p"			"você terá regeneração de munição adicional"
+	}
+	"Regen_AmmoOnlyOff"
+	{
+		"pt_p"			"Regeneração de munição esta desabilitada agora."
+	}
+	"Regen_ShowHelp"
+	{
+		"pt_p"			"Para ativar/desativar a regeneração use !regen <on|off>"
+	}
+	"Switched_Teams"
+	{
+		"pt_p"			"você foi trocado de equipe"
+	}
+	"Player_SentToStart"
+	{
+		"pt_p"			"você foi enviado de volta para o inicio."
+	}
+	"Native_ClearSave"
+	{
+		"pt_p"			"Seus saves foram apagados."
+	}
+	"Player_Capped"
+	{
+		"#format"		"{1:s},{2:s},{3:s},{4:c},{5:c},{6:c},{7:c},{8:c},{9:c}"
+		"pt_p"			"{4}{1}{5} atingiu {6}{2}{7} com um {8}{3}{9}."
+	}
+	"Player_Capped_BOSS"
+	{
+		"#format"		"{1:s},{2:s},{3:s},{4:c},{5:c},{6:c},{7:c},{8:c},{9:c}"
+		"pt_p"			"{4}{1}{5} atingiu {6}{2}{7} com um {8}{3}{9} LIKE A BOSS."
+	}
+	"Designed_For"
+	{
+		"#format"		"{1:c},{2:s},{3:c}"
+		"pt_p"			"Esse mapa foi projetado para {1}{2}{3} habilitando regeneração para você."
+	}
+	"Class_Scout"
+	{
+		"pt_p"			"Scout"	
+	}
+	"Class_Sniper"
+	{
+		"pt_p"			"Sniper"
+	}
+	"Class_Soldier"
+	{
+		"pt_p"			"Soldier"	
+	}
+	"Class_Demoman"
+	{
+		"pt_p"			"Demoman"	
+	}
+	"Class_Medic"
+	{
+		"pt_p"			"Medic"
+	}
+	"Class_Pyro"
+	{
+		"pt_p"			"Pyro"
+	}
+	"Class_Spy"
+	{
+		"pt_p"			"Spy"
+	}
+	"Class_Engineer"
+	{
+		"pt_p"			"Engineer"
+	}
+	"Class_Heavy"
+	{
+		"pt_p"			"Heavy"
+	}
+	"Welcome_1"
+	{
+		"#format"		"{1:s},{2:s},{3:s},{4:c},{5:c},{6:c},{7:c},{8:c},{9:c}"
+		"pt_p"			"Bem vindo {4}{1}{5}. Este servidor esta executando {6}{2}{7} de {8}{3}{9}."
+	}
+	"Welcome_2"
+	{
+		"#format"		"{1:s},{2:c},{3:c},{4:c},{5:c}"
+		"pt_p"			"Para ajuda em {2}{1}{3} digite {4}!ja_help{5} no chat."
+	}
+	"Showkeys_Off"
+	{
+		"pt_p"			"Visualização de teclas na hud desativadas.
+	}
+	"Showkeys_On"
+	{
+		"pt_p"			"Visualização de teclas na hud ativadas."
+	}
+	"SetMy_Failed"
+	{
+		"pt_p"			"Suas configurações não foram salvas."
+	}
+	"SetMy_Success"
+	{
+		"pt_p"			"Suas configurações foram salvas."
+	}
+	"SetMy_FOV_Help"
+	{
+		"pt_p"			"Use: !setmy fov <#> (# pode ser de 0-160)"
+	}
+	"SetMy_FOV_NotInstalled"
+	{
+		"pt_p"			"Este servidor não possui o plugin de FOV instalado. Contate o dono do servidor, e peca que instalem esse recurso."
+	}
+	"Player_Restarted"
+	{
+		"pt_p"			"você foi reiniciado."
+	}
+	"Pick_Client"
+	{
+		"pt_p"			"Pegue um cliente"
+	}
+	"Player_ClearedSave"
+	{
+		"pt_p"			"Seus saves foram apagados."
+	}
+	"SendPlayer_Help"
+	{
+		"pt_p"			"Use: sed <nome> <alvo>"
+	}
+	"SendPlayer_Self"
+	{
+		"pt_p"			"você deve usar !goto"
+	}
+	"Send_Player"
+	{
+		"#format"		"{1:s},{2:s}"
+		"pt_p"			"Enviado jogador {1} para jogador {2}."
+	}
+	"Goto_Spectate"
+	{
+		"pt_p"			"você não pode usar esse comando enquanto estiver como espectador."
+	}
+	"Goto_Help"
+	{
+		"pt_p"			"Use: goto <nome>"
+	}
+	"Goto_Cant"
+	{
+		"#format"		"{1:s}"
+		"pt_p"			"não pode ir ao jogador {1}"
+	}
+	"Goto_Self"
+	{
+		"pt_p"			"você não pode ir para você mesmo!"
+	}
+	"Goto_Success"
+	{
+		"#format"		"{1:s}"
+		"pt_p"			"Teletransportando você para {1}."
+	}
+	"No_Access"
+	{
+		"pt_p"			"você não tem acesso necessário a esse comando."
+	}
+	"SetMy_Help"
+	{
+		"pt_p"			"!setmy <hardcore|regen|fov> <on|off|value>"
+	}
+	"SetMy_Hardcore_Help"
+	{
+		"pt_p"			"!setmy hardcore <on|off>"
+	}
+	"SetMy_Regen_Help"
+	{
+		"pt_p"			"!setmy regen <on|off>"
+	}
+	"Mapset_Help"
+	{
+		"pt_p"			"Usage: !mapset <team|class|lockcps>  <team color|class|on off>"
+	}
+	"Mapset_Team_Help"
+	{
+		"pt_p"			"Use: !mapset team  <red|blue|none>"
+	}
+	"Mapset_Class_Invalid"
+	{
+		"#format"		"{1:s},"
+		"pt_p"			"Erro: {1} não é uma classe valida."
+	}
+	"Mapset_LockCP_Help"
+	{
+		"pt_p"			"Use: !mapset <lockcps>  <on|off>"
+	}
+	"Mapset_Not_Saved"
+	{
+		"pt_p"			"Definições do mapa não foram salvas."
+	}
+	"Mapset_Saved"
+	{
+		"pt_p"			"Definições do mapa foram salvas com sucesso"
+	}
+	"Blu_Team"
+	{
+		"pt_p"			"Time Azul"
+	}
+	"Red_Team"
+	{
+		"pt_p"			"Time Vermelho"
+	}
+	"Speedrun_Active"
+	{
+		"pt_p"			"você não pode fazer isso enquanto estiver em um speed run."
+	}
+	"Regen_DisplayAmmoOn"
+	{
+		"pt_p"			"você esta atualmente com regeneração de munição ligada."
+	}
+	"Regen_DisplayAmmoOff"
+	{
+		"pt_p"			"você esta atualmente com regeneração de munição desligada."
+	}
+	"Regen_DisplayHealthOn"
+	{
+		"pt_p"			"você atualmente esta com a regeneração de vide ligada."
+	}
+	"Regen_DisplayHealthOff"
+	{
+		"pt_p"			"você atualmente esta com a regeneração de vide desligada"
+	}
+	"Regen_UnkillableOn"
+	{
+		"pt_p"			"Agora você esta invencível."
+	}
+	"Regen_UnkillableOff"
+	{
+		"pt_p"			"Agora você esta frágil como uma menininha."
+	}
+	"Command_Locked"
+	{
+		"pt_p"			"Esse comando foi desativado pelo administrador do servidor."
+	}
+	"Save_Undo"
+	{
+		"pt_p"			"Seus saves anteriores foram restaurados."
+	}
+	"Save_UndoCant"
+	{
+		"pt_p"			"você não e capaz de salvar no momento."
+	}
+	"Save_UndoSpeedRun"
+	{
+		"pt_p"			"você não pode fazer isso enquanto estiver em um speed run"
+	}
+	"ShowKeys_SpecOnly"
+	{
+		"pt_p"			"você deve ser um espectador para usar esse comando."
+	}
+	"SkeysColor_Help"
+	{
+		"pt_p"			"sm_skeys_color <R G B>"
+	}
+	"Numeric_Invalid"
+	{
+		"pt_p"			"você deve usar somente caracteres numéricos."
+	}
+	"AddTele_Help"
+	{
+		"pt_p"			"!addtele <nome>"
+	}
+	"AddTele_Failed"
+	{
+		"pt_p"			"Localização de teletransporte não foi salva."
+	}
+	"AddTele_Success"
+	{
+		"pt_p"			"Localização de teletransporte foi salva com sucesso."
+	}
+	"Battle_Reason"
+	{
+		"pt_p"			"você não conseguiu ouvir as advertências"
+	}
+	"Battle_Warning"
+	{
+		"pt_p"			"Não ataque outros jogadores. Continue assim e você será removido."
+	}
+	"General_Busy"
+	{
+		"pt_p"			"você não pode fazer isso ao fazer um speed run."
+	}
+	"New_CapPoint"
+	{
+		"pt_p"			"você criou com sucesso um novo ponto de capt_pura."
+	}
+	"Failed_CapPoint"
+	{
+		"pt_p"			"Seu ponto de capt_pura não foi salvado."
+	}
+	"CapPoint_Help"
+	{
+		"pt_p"			"Uso: !addcap <nome>"
+	}
+	"Goto_Avail"
+	{
+		"pt_p"			"Parabéns ! Agora você pode usar !goto."
+	}
+	"Jumpt_pele_Help"
+	{
+		"pt_p"			"use: !jtele <nome> <nome jump>"
+	}
+	"Jumpt_pele_Success"
+	{
+		"#format"		"{1:s},{2:c},{3:c},{4:s},{5:c},{6:c}"
+		"pt_p"			"Teletransportado {2}{1}{3} para {5}{4}{6}"
+	}
+	"Jumpt_pele_NoneFound"
+	{
+		"pt_p"			"Não há locais de teletransporte salvos para este mapa."
+	}
+	"Jumpt_pele_NoMatch"
+	{
+		"#format"		"{1:s},{2:c},{3:c}"
+		"pt_p"			"Não há qualquer teletransporte correspondente que coincida com o nome '{2}{1}{3}'."
+	}
+	"Jumpt_pele_NoMatchingClient"
+	{
+		"pt_p"			"Nenhum cliente foi encontrado por esse nome."
+	}
+	"Caber_Nocando"
+	{
+		"pt_p"			"você não pode fazer isso ao fazer um speed run."
+	}
+	"Caber_On"
+	{
+		"pt_p"			"Seu caber não será recarregado."
+	}
+	"Caber_Off"
+	{
+		"pt_p"			"Seu caber não será recarregado."
+	}
+	"Database_Changed"
+	{
+		"pt_p"			"O banco de dados foi alterado. Alguns dados podem ter sido perdidos. Fale com um administrador para obter mais informações."
+	}
+	"Teleports_Disabled"
+	{
+		"pt_p"			"Teletransportes são desabilitados durante o modo Hardcore."
+	}
+	"Jumper_Command_Disabled"
+	{
+		"pt_p"			"Você não pode usar isso, porque você tem uma arma de jump equipada."
+	}
+	"Found_Jumps"
+	{
+		"pt_p"			"Localizações encontradas:"
+	}
+}
